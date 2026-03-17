@@ -1,0 +1,30 @@
+Configuración y Creación
+git config --global user.name "Nombre"
+git config --global user.email "email@ejemplo.com"
+git init
+git clone [URL]
+Ciclo de Trabajo (Local)
+git status
+git add .
+git add [archivo]
+git commit -m "mensaje"
+git log
+git diff
+Ramas (Branching)
+git branch
+git branch [nombre-rama]
+git checkout [nombre-rama] (o git switch)
+git checkout -b [nombre-rama]
+git merge [nombre-rama]
+git branch -d [nombre-rama]
+Sincronización (Remoto/GitHub)
+git remote add origin [URL]
+git remote -v
+git push origin [rama]
+git pull
+git fetch
+Deshacer Cambios
+git restore [archivo]
+git reset --hard [ID-commit]
+git revert [ID-commit]
+git stash (guarda cambios temporalmente sin hacer commit)
