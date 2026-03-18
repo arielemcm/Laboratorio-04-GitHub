@@ -1,0 +1,10 @@
+                                    Estructuras de Datos Lineales
+
+> Arrays (Arreglos/Vectores)
+        Elementos almacenados en ubicaciones contiguas de memoria con acceso aleatorio.
+> Listas Enlazadas (Linked Lists)
+        Nodos con datos y punteros al siguiente elemento, permitiendo inserciones dinámicas.
+> Pilas (Stacks)
+        Estructura LIFO (Last In, First Out), donde el último elemento en entrar es el primero en salir.
+> Colas (Queues)
+        Estructura FIFO (First In, First Out), donde el primer elemento en entrar es el primero en salir.
